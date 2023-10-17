@@ -1,2 +1,3 @@
 # codeclause_intership_task2
-Face Detection
+Face Detection<br>
+Akanksha Kashyap
